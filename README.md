@@ -1,5 +1,5 @@
 # Image-Classification
-This is a classical Image Binary Classification Problem where we need to classify whether the given image belongs to dog or cat. 
+This is a classical Binary Image Classification Problem where we need to classify whether the given image belongs to dog or cat. 
 
 Data provided: 8000 images ( training set) and 2000 images(test set) of dogs & cats splitted evenly. 
 
